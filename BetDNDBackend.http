@@ -1,0 +1,6 @@
+@BetDNDBackend_HostAddress = http://localhost:5278
+
+GET {{BetDNDBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
